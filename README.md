@@ -4,7 +4,7 @@ This repository contains a simple Hangman game implemented in Python. The Hangma
 
 Rules:
 
-> You have a limited number of attempts (e.g., 7) to guess the word correctly.
+> You have a limited number of attempts (7) to guess the word correctly.
 
 > Each incorrect guess will count against your total attempts.
 
