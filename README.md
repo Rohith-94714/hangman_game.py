@@ -1,6 +1,6 @@
 Project Description
 
-This repository contains a simple Hangman game implemented in Python. The Hangman game is a classic word-guessing game where the player tries to guess a secret word one letter at a time. The player has a limited number of attempts to guess the complete word.
+This repository contains a simple Hangman game implemented in Python. The Hangman game is a classic word-guessing game where the player tries to guess a secret word one letter at a time. The player has a limited number of attempts to guess the complete word.The functions used in this project are random() , time() , while loop , if-else...
 
 Rules:
 
